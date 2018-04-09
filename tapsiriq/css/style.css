@@ -1,0 +1,64 @@
+body{
+	background-image: url(../images/3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.color{
+	position: absolute;
+	background-color: black;
+	height: 100%;
+	width: 100%;
+	opacity: 0.8;
+}
+body .col-md-12 h1{
+	color: gold;
+	margin-top: 50px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.col-md-4{
+	height: 500px;
+}
+.col-md-4 ul {
+	display: inline-block;
+}
+.col-md-4 ul li{
+	list-style: none;
+	color: white;
+	margin-bottom: 15px;
+}
+.col-md-4 ul li i{
+	display: none;
+}
+.col-md-4 ul li:hover{
+	color: gold;
+	cursor: pointer;
+}
+.col-md-4 ul li:hover i{
+	display: inline-block;
+}
+.col-md-8{
+	height: 500px;
+	color: white;
+}
+.col-md-8 .text2{
+	display: none;
+}
+.col-md-8 .text3{
+	display: none;
+}
+.col-md-8 .text4{
+	display: none;
+}
+.col-md-8 .text5{
+	display: none;
+}
+.col-md-8 .text6{
+	display: none;
+}
+.col-md-8 .text7{
+	display: none;
+}
+.col-md-8 .text8{
+	display: none;
+}
